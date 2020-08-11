@@ -1,6 +1,11 @@
-I'm SeleDreams, a french developer who mainly develops in C# and C++. 
+# Welcome to my profile !
 
-I also am lately experimenting in Haxe on Armory3D and with ASP.net core.
+I am SeleDreams, a french developer who mainly develops in C# and C++. 
+
+I want to make games that make people feel intensity, for this I am lately experimenting in Haxe on Armory3D.
+
+I also enjoy producing music.
+
 
 🔭 I’m currently working on a game, no more details can be revealed yet.
 <!--
