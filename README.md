@@ -1,10 +1,14 @@
 # Welcome to my profile !
 
-I am SeleDreams, a french developer who mainly develops in C# and C++. 
+👋 Hi there! I’m a passionate developer with nearly a decade of self-taught experience. I’ve worked on game development, engine programming, reverse engineering, and more.
 
-I want to make games that make people feel intensity
+🎮 You’ll find various projects on my GitHub, from homebrew development kits to game engine prototypes.
 
-I also enjoy producing music.
+🎵 Besides coding, I compose video game music and am learning Japanese.
+
+🌍 I’m comfortable working on various systems from Windows to MacOS, Android to iOS.
+
+🚀 Open to learning new technologies and creating exciting games for players worldwide. Note: I have Asperger’s syndrome, but I adapt well. Thanks for stopping by! 😊
 
 <!--
 **SeleDreams/SeleDreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
