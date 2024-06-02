@@ -10,7 +10,7 @@
 
 🚀 Open to learning new technologies and creating exciting games for players worldwide. 
 
-Note: I have Asperger’s syndrome, but I adapt well. Thanks for stopping by! 
+Note: I have Autism, but I adapt well. Thanks for stopping by! 
 
 <!--
 **SeleDreams/SeleDreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
