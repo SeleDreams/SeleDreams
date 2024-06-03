@@ -11,9 +11,9 @@
 🚀 Open to learning new technologies and creating exciting games for players worldwide. 
 
 Note: I have Autism, but I adapt well. Thanks for stopping by! 
-
-# Projects I worked on
-
+<details>
+  <summary>My Portfolio</summary>
+  
 ## Godot Engine Piano roll
 
 https://github.com/SeleDreams/SeleDreams/assets/16335601/e0539604-f2e3-4926-a0ff-7b700ed43b5a
@@ -29,7 +29,7 @@ https://github.com/SeleDreams/SeleDreams/assets/16335601/6f8f1bd3-11e7-49c4-8431
 ## Godot Engine modular 3D third person controller
 https://github.com/SeleDreams/SeleDreams/assets/16335601/1eb76522-ab69-4b74-bee1-a6a44975d6fe
 
-
+</details>
 <!--
 **SeleDreams/SeleDreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
