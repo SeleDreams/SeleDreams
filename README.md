@@ -2,6 +2,8 @@
 
 👋 Hi there! I’m a passionate developer with nearly a decade of self-taught experience. I’ve worked on game development, engine programming, reverse engineering, and more.
 
+I can program in various programming languages. But my most used languages tend to be C++, C# and Rust
+
 🎮 You’ll find various projects on my GitHub, from homebrew development kits to game engine prototypes.
 
 🎵 Besides coding, I compose video game music and am learning Japanese.
