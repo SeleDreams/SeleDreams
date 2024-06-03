@@ -14,7 +14,7 @@ I can program in various programming languages. But my most used languages tend 
 
 Note: I have Autism, but I adapt well. Thanks for stopping by! 
 <details>
-  <summary>My Portfolio</summary>
+  <summary><b>My Portfolio</b></summary>
   
 ## Godot Engine Piano roll
 
