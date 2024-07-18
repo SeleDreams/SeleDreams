@@ -17,7 +17,7 @@ Note: I have Autism, but I adapt well. Thanks for stopping by!
 
 <summary>
   
-# <center><font color="yellow"><ins>Click here to check out my Portfolio !</ins></font></center>
+# <ins>Click here to check out my Portfolio !</ins>
   
 </summary>
  
